@@ -1,0 +1,15 @@
+$ npm install -g bower
+$ npm init
+$ bower init
+$ touch .gitignore
+
+$ npm install --save express
+$ npm install -g gulp
+$ npm install -g ejs
+$ npm install --save ejs
+$ npm install --save gulp
+$ npm install --save gulp-live-server
+$ npm install --save browser-sync
+$ npm install --save react
+$ bower install --save react
+$ npm install -g react-tools
