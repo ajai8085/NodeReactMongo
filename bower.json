@@ -1,0 +1,22 @@
+{
+  "name": "react-express-example",
+  "version": "0.0.0",
+  "authors": [
+    "Ajai <ajai.pillai@readify.net>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.0"
+  }
+}
